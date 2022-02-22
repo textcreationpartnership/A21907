@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against all persons, that disorderly enter into shippes that are brought as prizes into any hauen and that doe secretly buy or conuey away the goods before they be customed, and allowed s lawfull prize.</title>
+            <title>Proclamations. 1594-08-01</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1618</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21907</idno>
+            <idno type="STC">STC 8238</idno>
+            <idno type="STC">ESTC S115497</idno>
+            <idno type="EEBO-CITATION">99850716</idno>
+            <idno type="PROQUEST">99850716</idno>
+            <idno type="VID">15941</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21907)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15941)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:94)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against all persons, that disorderly enter into shippes that are brought as prizes into any hauen and that doe secretly buy or conuey away the goods before they be customed, and allowed s lawfull prize.</title>
+                  <title>Proclamations. 1594-08-01</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie [i.e. B. Norton and J. Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>ca. 1618]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Actual printers' names and estimated publication date from STC.</note>
+                  <note>Goods embezzled from recent Spanish prizes captured by the London fleet are to be handed over.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prizes --  England --  Early works to 1800.</term>
+               <term>Embezzlement --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15941:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation againſt all perſons, that diſorderly enter into ſhippes that are brought as Pri<g ref="char:EOLhyphen"/>zes into any Hauen, and that doe ſecretly buy or conuey away the goods before they be cu<g ref="char:EOLhyphen"/>ſtomed, and allowed as lawfull Prize.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas great diſorders haue lately bene committed, and doe ſtill continue by rea<g ref="char:EOLhyphen"/>ſon of going abroade of diuers men of warre, at their returne home with prizes, by diuers and ſundry perſons, that do ſoiourne &amp; remain in diuers port Townes, and places adiacent with great ſummes of money, with intent to buy and conuey in ſecret ſort of the Captains and Mariners of the ſaid ſhippes, the beſt commodi<g ref="char:EOLhyphen"/>ties that they can get, as Pearle, Iewels, Stones, and other ſhort ends of great value: And doe alſo very diſorderly, and in ſecrete ſort with their Boates in the night time goe aboord the ſaid men of warre, to conuey away the goodes and marchandiſe of the ſaid Ships, before it bee adiudged good Prize, and before her Maieſties Cuſtomes and other dueties be anſwered, (a matter very inconuent<g ref="char:EOLhyphen"/>ent to be ſuffered) but the offenders therein to be puniſhed according to the qualitie of their offence. Her Maie<g ref="char:EOLhyphen"/>ſtie therefore for reformation thereof doth ſtraightly charge and command, that after the publication of this Pro<g ref="char:EOLhyphen"/>clamation: No maner of perſon or perſons whatſoeuer, vnleſſe it be the Officers of the Port, &amp; of the Admiralty, or the Owners &amp; companie of ſuch Ships, do go aboorde any ſuch Prizes, or do buy, bargaine, receiue or conuey out of the ſaid Prizes, or from any of the companie of the ſame, either on board or on ſhore, any goods, marchandiſe or Pillage brought home in the ſaide Shippes being Prizes, or from any of the Shippes of the men of warre, vntil her Maieſties Cuſtomes and other dueties be firſt paide, and the Prize adiudged to be lawfull: vpon paine not onely to forfeite the goodes ſo bought or receiued, but alſo the buyer and the Seller to bee committed to priſon, there to remaine vntill order bee giuen from the Lordes of her Maieſties priuie Counſell for their deliuerie.</p>
+            <p>And for the better preuenting of the diſorders aforeſaid: Her Maieſties further pleaſure is, And ſo ſhee doeth ſtraightly command, that immediately vpon the comming in of any Prize from the Seas, ſome of the Officers of the Cuſtome-houſe of that Port, and of the Admiralty, ſhal go aboard, &amp; remaine aboard quietly, without any in<g ref="char:EOLhyphen"/>terruption or reſiſtance of the Captaine, Owner, Maſter, or Mariners, vntil the Ship ſhalbe diſcharged, &amp; there to take notes, and viewe of ſuch goods, as from time to time ſhalbe diſcharged. And likewiſe of the cheſts and pil<g ref="char:EOLhyphen"/>lage of the Captaines, and companie of any ſuch Prizes before they be brought on ſhoare. And if any reſiſtance bee vſed towards the ſayde Officers, or if any perſon ſhall founde to offende contrarie to the orders aforeſaid: Then her Maieſtie commaundeth all Iuſtices of Peace, Maiors, Vice-admirals, and all other Officers what<g ref="char:EOLhyphen"/>ſoeuer, preſently to apprehende the Offender or Offenders, and to committe him or them to priſon, aduertiſing to the Lordes of her Maieſties priuie Counſell, the name of the partie or parties committed, with the qualitie of his or their offences: That thereupon further order may bee taken as apperteineth.</p>
+            <closer>
+               <dateline>Giuen at her Highneſſe Mannor of Greenwich, <date>the firſt day of Auguſt 1594. in the ſixe and thirtieth yeere of her Maieſties reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Depu<g ref="char:EOLhyphen"/>ties of Chriſtopher Barker, Printer to the Queenes <hi>most excellent Maieſtie.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
